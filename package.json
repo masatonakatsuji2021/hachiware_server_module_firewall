@@ -1,6 +1,6 @@
 {
   "name": "hachiware_server_module_firewall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Firewall module for web server package \"hachiware_server\".",
   "main": "index.js",
   "scripts": {
